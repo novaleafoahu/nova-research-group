@@ -5,18 +5,55 @@ date: 2022-10-24
 type: landing
 
 sections:
+
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: Welcome
       image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        # Reference an image in your `assets/media/` folder
+        filename: logohome.png
+      # Add your Call-To-Action (CTA) button and optional icon
+       # Add your Hero text here
+      text: |-
+       Thank you for visiting! Check out our products below. If you have any questions, feel free to reach out to us. 
+
+     
+    design:
+      # Choose an optional background color, gradient, image, or video
+      background:
+        gradient_end: '#DEE4EA'
+        gradient_start: '#F9FCFF'
+        #text_color_light: true
+
+
+
+
+
+
+
+
+
+  - block: people
+    content:
+      title: Products
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+        - Fertilizer
+        - Supplies
+        - Tools
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      # Show user's social networking links? (true/false)
+      show_social: false
+      # Show user's interests? (true/false)
+      show_interests: true
+      # Show user's role?
+      show_role: true
+      # Show user's organizations/affiliations?
+      show_organizations: true
+
   - block: collection
     content:
       title: Latest News
@@ -33,35 +70,10 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
+      view: compact
+      columns: '2'
       background:
         image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
----
+         filename: background.jpg
+
+--- 
