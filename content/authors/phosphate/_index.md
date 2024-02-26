@@ -37,7 +37,21 @@ email: ''
 user_groups:
   - Fertilizer
 ---
+### Triple Superphosphate 0-46-0
+Provides a readily available form of phosphorous. Stimulates root development and larger blooms. Use on flowers, fruits, vegetables. This product is conveniently ready to use when it arrives. No need to mix or spray anything. Simply incorporate the granules into the soil & water thoroughly
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This fertilizer may be applied to most plants. It comprises Phosphate. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ingredients specification: [Here](1203050_0450_3-22-18_GHS_backup-label.pdf) and additional information [Here](sds969.pdf)
+
+
+## 💡 Instruction
+Included in the container, is 1 tablespoon scoop. 
+
+Per 5 SF:  Apply 1 tablespoon and spread.
+
+
+Always water after feeding.
+
+Do not place fertilizer directly on seeds or plants.
+

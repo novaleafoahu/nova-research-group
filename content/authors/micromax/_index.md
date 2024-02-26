@@ -38,6 +38,23 @@ user_groups:
   - Fertilizer
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+### Micro Max nutrient
+This fertilizer may be applied to most plants. It comprises many nutrients. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ingredients specification: [Here](MicromaxMicronutrients.pdf) 
+
+## 💡 Instruction
+Included in the container is 1/2 Teaspoon scoop. Each scoop provides ~1.4 grams of Micromax.  
+
+
+|  Usage |  Serving Size|
+|---|---|---|---|
+| 1-2 qt pot | 1-2 grams |
+| 1 gal pot | 2-4 grams |
+| 3 gal pot | 6-13 grams |
+| 5 gal pot | 9-17 grams |
+
+Application instructions: [Here](Micromax_Sheet.pdf)
+
+![micromax](Capture.PNG "application")
+

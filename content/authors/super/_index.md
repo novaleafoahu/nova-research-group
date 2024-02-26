@@ -57,4 +57,20 @@ user_groups:
   - company
 ---
 
-We are doing our best to provide, source, and deliver quality products. 
+Provides a readily available form of phosphorous. Stimulates root development and larger blooms. Use on flowers, fruits, vegetables. This product is conveniently ready to use when it arrives. No need to mix or spray anything. Simply incorporate the granules into the soil & water thoroughly
+
+### Triple Superphosphate 0-46-0
+This fertilizer may be applied to most plants. It comprises Phosphate. 
+
+Ingredients specification: [Here](1203050_0450_3-22-18_GHS_backup-label.pdf) and additional information [Here](sds969.pdf)
+
+
+## 💡 Instruction
+Included in the container, is 1 tablespoon scoop. 
+
+Per 5 SF:  Apply 1 tablespoon and spread.
+
+
+Always water after feeding.
+
+Do not place fertilizer directly on seeds or plants.

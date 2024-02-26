@@ -57,6 +57,21 @@ user_groups:
   - Fertilizer
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+### General fertilizer 20-20-20
+This fertilizer may be applied to most plants. It comprises equal parts of nitrogen, phosphate, and potassium. 
+
+Ingredients specification: [Here](peters.pdf)
+
+## 💡 Instruction
+Included in the container, is a 1 ml scoop. Each scoop, when mixed in 1 gallon of water, provides roughly 50 PPM of nitrogen, phosphate, and potassium.
+
+
+|  Serving size |  Water in gallons |  Approx. ppm N | Usage|
+|---|---|---|---|
+| 1 ml scoop | 1 | 50 | seedlings with true leaves |
+| 2 ml scoop | 1 | 100 | seedlings with true leaves |
+| 3 ml scoop | 1 | 150 | young plants |
+|  1 teaspoon |  1 | 238  | medium sized plants |
+|  1 tablespoon | 2  | 357  | large plants |
+

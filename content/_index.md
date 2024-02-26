@@ -15,7 +15,7 @@ sections:
       # Add your Call-To-Action (CTA) button and optional icon
        # Add your Hero text here
       text: |-
-       Thank you for visiting! Check out our products below. If you have any questions, feel free to reach out to us. 
+       Thank you for visiting! Check out our products below. If you have any questions, feel free to reach out. Visit us at 🎬 [Tiktok](tiktok.com) and 📸[IG](instagram.com).  
 
      
     design:

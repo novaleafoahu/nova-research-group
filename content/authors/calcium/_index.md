@@ -38,6 +38,18 @@ user_groups:
   - Fertilizer
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+### Calcium Nitrate 15.5-0-0
+This fertilizer may be applied to most plants. It comprises mainly nitrogen. 
+
+Ingredients specification: [Here](YARALIVATROPICOTEMSDS.pdf)
+
+## 💡 Instruction
+Included in the container, is a 3 ml scoop (1 Tablespoon). Each scoop, when mixed in 1 gallon of water, provides roughly 50 PPM.
+
+
+|  Serving size |  Water in gallons |  Approx. ppm N | Usage|
+|---|---|---|---|
+| 1 scoop at 2 grams | 1 | 122 | seedlings with true leaves |
+
+Application rate [Here](https://ag.arizona.edu/hydroponictomatoes/nutritio.htm)
