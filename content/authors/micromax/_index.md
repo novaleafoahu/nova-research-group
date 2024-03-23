@@ -39,7 +39,7 @@ user_groups:
 ---
 
 ### Micro Max nutrient
-This fertilizer may be applied to most plants. It comprises many nutrients. 
+This fertilizer may be applied to most plants. It comprises many nutrients. Micromax Micronutrients is a leading homogenous granular micronutrient fertilizer that maximizes sulfated elements for optimum plant utilization and prevents micronutrient segregation. This is a good product for general nursery and greenhouse production when additional micronutrients are desired or required.
 
 Ingredients specification: [Here](MicromaxMicronutrients.pdf) 
 

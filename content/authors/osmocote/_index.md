@@ -38,6 +38,13 @@ user_groups:
   - Fertilizer
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Well balanced slow release fertilizer. Ideal for use in nursery, foliage and greenhouse production, container gardens, interiorscapes and landscapes. It is commonly added to heavy feeding greenhouse plants or used when multiple crops are grown together. Fertilizer may last 3-4 months.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+## 💡 Instruction
+Included in the container, is a 3 ml scoop (1 Tablespoon). 
+
+|  container size| grams|
+|---|---|
+| 1 quart pot | 2-7 |
+| 1 gallon pot |  8-28  |
+| 2 gallon pot | 16-58 |
