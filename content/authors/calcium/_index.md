@@ -40,16 +40,21 @@ user_groups:
 
 
 ### Calcium Nitrate 15.5-0-0
-This fertilizer may be applied to most plants. It comprises mainly nitrogen. 
+This fertilizer may be applied to plants directly to soil or mixed with water.
+
+
 
 Ingredients specification: [Here](YARALIVATROPICOTEMSDS.pdf)
 
 ## 💡 Instruction
-Included in the container, is a 3 ml scoop (1 Tablespoon). Each scoop, when mixed in 1 gallon of water, provides roughly 50 PPM.
+Included in the container, is a 3 ml scoop (1 Tablespoon). Each scoop, when mixed in 1 gallon of water, provides roughly 82 PPM if the amount of fertilizer is 2 grams. Start with less fertilizer to ensure safe growth.
+
+
 
 
 |  Serving size |  Water in gallons |  Approx. ppm N | Usage|
 |---|---|---|---|
-| 1 scoop at 2 grams | 1 | 122 | seedlings with true leaves |
+| 1 scoop at 2 grams | 1 | 82 | plant with true leaves |
+| 2 scoops at 4 grams | 1 | 164 | medium sized plants |
 
 Application rate [Here](https://ag.arizona.edu/hydroponictomatoes/nutritio.htm)
